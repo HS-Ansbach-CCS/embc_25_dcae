@@ -19,7 +19,7 @@ For a complete example, you can run the following script:
 python example_usage.py
 ``` 
 
-## References
+# References
 Author: Annika Stiehl
 
 Email: [annika.stiehl@hs-ansbach.de](mailto:annika.stiehl@hs-ansbach.de)
