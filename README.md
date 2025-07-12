@@ -21,4 +21,5 @@ python example_usage.py
 
 ## References
 Author: Annika Stiehl
+
 Email: [annika.stiehl@hs-ansbach.de](mailto:annika.stiehl@hs-ansbach.de)
